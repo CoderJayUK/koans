@@ -1,6 +1,6 @@
 # Ruby Koans
 
-![100% Ruby Koans Completion](https://github.com/CoderJayUK/koans/blob/main/screenshot.png)
+![100% Ruby Koans Completion](https://github.com/CoderJayUK/koans/blob/main/screenshot.PNG)
 
 I recently had some free time and decided to complete the Ruby Koans. They're
 an excellent way to learn Ruby from a **Test Driven Development** approach.
